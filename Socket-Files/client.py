@@ -58,7 +58,6 @@ class Client():
         self.main_window.iconbitmap('E:\Python Files\TCP Chat Room\chat_icon.ico')
 
         #root bindings
-        self.main_window.bind('<Return>', self.write_loop)
         self.main_window.bind('<Control-z>', self.undo)
 
         #tabbed widgets
@@ -105,7 +104,7 @@ class Client():
         self.main_window.mainloop()
             
     #write messages loop
-    def write_loop(self, event):
+    def write_loop(self):
         msg = self.message_input.get(1.0, tk.END).strip()
 
         if msg == "":
