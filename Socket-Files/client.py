@@ -1,5 +1,3 @@
-from dataclasses import Field
-from fileinput import filename
 import tkinter as tk
 import os
 import threading
@@ -15,7 +13,7 @@ except:
     os.system("pip install sockets")
     import socket
 
-HOST = 'localhost'
+HOST = '192.168.0.108'
 PORT = 9999
 msg_time = dt.datetime.now()
 main_time = msg_time.strftime("%I:%M %p")

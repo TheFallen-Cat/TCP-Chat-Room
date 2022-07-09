@@ -12,7 +12,7 @@ except:
     os.system("pip install sockets")
     import sockets
 
-HOST = 'localhost'
+HOST = '192.168.0.108'
 PORT = 9999
 
 server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
