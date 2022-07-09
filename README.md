@@ -18,7 +18,7 @@ PORT = 9999
 `localhost` refers to the machine in which the script is running in.
 <p></p>
 
-`PORT = 9999` is a random port for connecting to the server. This can be chnaged as per the user, but it has to be changed in both `server.py` as well as `client.py`. 
+`PORT = 9999` is a random port for connecting to the server. This can be changed as per the user, but it has to be changed in both `server.py` as well as `client.py`. 
 
 <h1><code>client.py file</code></h1>
 
@@ -85,7 +85,7 @@ HOST = '192.168.0.108'
 PORT = 9999
 ```
 
-Ok, so now the client and the server are connecteed to the same network and running on the same network.
+Ok, so now the client and the server are connected to the same network and running on the same network.
 
 Only thing left is the demonstration!
 
