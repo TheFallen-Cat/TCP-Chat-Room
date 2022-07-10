@@ -1,6 +1,6 @@
 <h1 align=center>TCP Chat Room</h1>
 
-<p>Simple TCP Chat Project made with <a url='https://docs.python.org/3/library/socket.html'>sockets</a> using python language.</p>
+<p>Simple TCP Chat Project made with <a href='https://docs.python.org/3/library/socket.html'>sockets</a> using python language.</p>
 
 **NOTE : In order to run and connect the client from an external server(another pc), follow the following steps >**
 
@@ -28,7 +28,7 @@ HOST = 'localhost'
 PORT = 9999
 ```
 
-As you may have noticed, both the <a url = 'Socket-Files/client.py'>client</a> and sever uses a `HOST` and `PORT` to connect with each other.
+As you may have noticed, both the <a href = 'Socket-Files/client.py'>client</a> and sever uses a `HOST` and `PORT` to connect with each other.
 
  Therefore, they have to be on the same `HOST` and `PORT` in order to connect.
 
@@ -100,7 +100,7 @@ Only thing left is the demonstration!
 
 So, the chat works as expected, i know there are scope of improvements which i'm working on!
 
-There will be new features in the near future, for now if you have any suggestions, you can send them via <a url='fallencat.user@gmail.com'>Email</a>!
+There will be new features in the near future, for now if you have any suggestions, you can send them via <a href='fallencat.user@gmail.com'>Email</a>!
 
 For further updates on this project, **Star the Repo**, it really means a lot!
 
