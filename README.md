@@ -100,7 +100,7 @@ Only thing left is the demonstration!
 
 So, the chat works as expected, i know there are scope of improvements which i'm working on!
 
-There will be new features in the near future, for now if you have any suggestions, you can send them via <a href='fallencat.user@gmail.com'>Email</a>!
+There will be new features in the near future, for now if you have any suggestions, you can send them via <a href='mailto:fallencat.user@gmail.com'>Email</a>!
 
 For further updates on this project, **Star the Repo**, it really means a lot!
 
