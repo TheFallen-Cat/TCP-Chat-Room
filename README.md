@@ -93,8 +93,7 @@ Only thing left is the demonstration!
 
 > Step 4 : Demonstration
 
-
-<img src='readme-media\Tcp-chat-test.gif' align=center></img>
+### IMG upload pending.
 
 
 
